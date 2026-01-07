@@ -20,8 +20,8 @@
 
 ## 👨‍💻 **Auxiliaires d'enseignement**
 
+* Anthony Gélinas
 * Philippe Leblanc
-* ...
 * ...
 
 ### 🌲 **Arbre du dépôt**
