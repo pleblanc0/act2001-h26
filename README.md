@@ -22,7 +22,6 @@
 
 * Anthony Gélinas
 * Philippe Leblanc
-* ...
 
 ### 🌲 **Arbre du dépôt**
 
